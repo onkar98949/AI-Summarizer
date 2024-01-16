@@ -19,7 +19,7 @@ const Hero = () => {
          </h1>
 
          <h2 className='desc'>
-          Simplify your reading with OpenAI summarize , an open source article summarizer thaht tranforms lengthy articles into clear and concise summaries.
+          Simplify your reading with OpenAI summarize , an open source article summarizer that tranforms lengthy articles into clear and concise summaries.
          </h2>
     </header>
   )
